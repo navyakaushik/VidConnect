@@ -5,7 +5,7 @@
 VidConnect is a secure, real-time, and responsive video calling application built with Next.js and Tailwind CSS. It offers a streamlined communication experience, allowing users to schedule, share, and join meetings effortlessly.
 
 - Schedule your meetings
-- iew and share meeting links
+- View and share meeting links
 - ✨Magic ✨
 
 
