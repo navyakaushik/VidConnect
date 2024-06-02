@@ -12,6 +12,7 @@ VidConnect is a secure, real-time, and responsive video calling application buil
 ## Features
 
 
+
 - Schedule Meetings: Plan your meetings ahead of time with our intuitive scheduling feature.
 - View Previous Meetings: Access and review past meetings for future reference.
 - Share Upcoming Meetings: Easily share upcoming meetings with participants through a simple link.
@@ -25,11 +26,13 @@ VidConnect is a secure, real-time, and responsive video calling application buil
 ## Tech
 
 
+
 - Next.js - The React framework for production.
 - Tailwind CSS - A utility-first CSS framework for rapid UI development.
 
 
 ## Installation
+
 
 
 VidConnect requires Node.js v14+ to run.
@@ -51,6 +54,7 @@ NODE_ENV=production npm start
 
 
 ### Security
+
 
 
 VidConnect ensures all your communications are secure with end-to-end encryption. Your privacy is our priority.
