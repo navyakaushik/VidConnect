@@ -1,5 +1,5 @@
 # VidConnect
-## Video Calling App
+## A Video Calling App
 
 
 VidConnect is a secure, real-time, and responsive video calling application built with Next.js and Tailwind CSS. It offers a streamlined communication experience, allowing users to schedule, share, and join meetings effortlessly.
